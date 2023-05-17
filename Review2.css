@@ -1,0 +1,92 @@
+.top-container{
+    background-color: #00008B;
+    height: 25vh;
+    padding-left: 55px;
+    padding-top: 10px;
+    margin-left: -30px;
+    margin-bottom: 0px;
+    width: 1280px;
+}
+.main-heading1{
+    font-family: "Roboto";
+    font-size: 40px;
+    color:white;
+    font-weight: bold;
+}
+.main-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    color:white;
+    margin-left: 140px;
+}
+
+  nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 15px;
+    color: aliceblue;
+  }
+  nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    transition:0.5s;
+  }
+  .login-button{
+     background-color:white;
+     border-radius: 6px;
+     font-size: 15px;
+     color: #00008B;
+     padding: 9px ;
+  }
+  .button-end{
+     margin-left: 450px;
+  }
+  .background-img{
+    background-image: url("https://wallpaperaccess.com/full/3614911.jpg");
+    height: 570px;
+    width: 1334px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: cover;
+    margin: -35px;
+  }
+  .sign-in-heading{
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-left: 150px;
+    color: white;
+  }
+  .sign-para-in{
+    font-family: "Roboto";
+    font-size: 20px;
+    padding-left: 150px;
+    color: white;
+    font-weight: bold;
+  }
+  .sign-button-in{
+    font-family: "Roboto";
+    font-size: 20px;
+    padding-left: 900px;
+    color: white;
+    font-weight: bold;
+  }
+  .text-padding{
+    margin-left: 900px;
+    height: 23px;
+    width: 300px;
+    border-color: #00008B;
+    border-radius: 9px;
+  }
+  .submit-button{
+    background-color:#00008B;
+    border-radius: 6px;
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    margin-left: 900px;
+    margin-top: 20px;
+  }
+
